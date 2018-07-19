@@ -1,0 +1,6 @@
+﻿  Inline build failed - ReadFile failed, win32 error code 109. Doing a normal build...
+  SSH: Connecting...
+  SSH: Error
+EXEC : Connection error : Een verbindingspoging is mislukt omdat de verbonden party niet correct heeft geantwoord na een bepaalde tijd, of de gemaakte verbinding is mislukt omdat de verbonden host niet heeft geantwoord 10.47.9.243:22
+  Build/launch failed: Cannot establish an SSH connection
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""C:\Program Files (x86)\Sysprogs\VisualGDB\\VisualGDB.exe" /build "g:\projects\FreeHandUltrafast\ruspberrypi\backend\rpBuffer\rpBuffer.vcxproj" "/solution:G:\projects\FreeHandUltrafast\ruspberrypi\backend\rpBuffer.sln"  "/config:Release" "/platform:Win32"" exited with code 1.
